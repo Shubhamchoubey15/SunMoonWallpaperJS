@@ -41,6 +41,7 @@ Sun & Moon Movement: They move in a circular pattern like a real day cycle.
 Click below to watch the preview:  
 
 [![Watch Video](https://img.icons8.com/ios/452/video-playlist.png)](https://github.com/Shubhamchoubey15/SunMoonWallpaperJS/raw/main/preview.mp4)
+![preview](https://github.com/user-attachments/assets/4c4935ca-4a9a-483e-abbd-344a3731db7b)
 
 🤝 Contributing
 Feel free to submit issues or improvements via pull requests.
