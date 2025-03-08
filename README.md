@@ -36,11 +36,11 @@ Edit
 Daytime (06:00 - 18:00): Shows a bright yellow sun on a grayish sky.
 Nighttime (18:00 - 06:00): Displays a glowing moon with stars.
 Sun & Moon Movement: They move in a circular pattern like a real day cycle.
-🌎 Live Demo
+## 🎥 Live Demo  
 
+Click below to watch the preview:  
 
-📹 Video Demo
-preview.mp4
+[![Watch Video](https://img.icons8.com/ios/452/video-playlist.png)](https://github.com/Shubhamchoubey15/SunMoonWallpaperJS/raw/main/preview.mp4)
 
 🤝 Contributing
 Feel free to submit issues or improvements via pull requests.
